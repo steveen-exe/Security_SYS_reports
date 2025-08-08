@@ -1,8 +1,7 @@
 ---
 
 ### 🔒 Author Verification
-This repository is the original work
-Any reuse or reproduction without credit is strictly prohibited.  
+Any reuse or reproduction without credit is  prohibited.  
 For verification or collaboration, contact: steveen-exe.
 
 SHA256 Fingerprint: 
