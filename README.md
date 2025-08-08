@@ -3,7 +3,7 @@
 ### 🔒 Author Verification
 This repository is the original work of **Steven Reji George**.  
 Any reuse or reproduction without credit is strictly prohibited.  
-For verification or collaboration, contact: `stevenreji21@gmail.com`.
+For verification or collaboration, contact: steveen-exe.
 
 SHA256 Fingerprint: 
 Generated on: 2025-08-08
