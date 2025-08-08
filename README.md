@@ -28,6 +28,3 @@ Network Security, SIEM, Zero Trust, OS Hardening, Compliance, Cloud Security (CA
 This repository is the original work of **Steven Reji George**.  
 Any reuse or reproduction without credit is strictly prohibited.  
 For verification or collaboration, contact: `stevenreji21@gmail.com`.
-
-SHA256 Fingerprint: `d26831852fc2ce8f4d48fa0a6f65f66ef1870802f6c8d1e28f48293dc85d531b`  
-Generated on: 2025-08-08
