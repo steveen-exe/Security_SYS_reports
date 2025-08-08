@@ -1,7 +1,7 @@
 ---
 
 ### 🔒 Author Verification
-This repository is the original work of **Steven Reji George**.  
+This repository is the original work
 Any reuse or reproduction without credit is strictly prohibited.  
 For verification or collaboration, contact: steveen-exe.
 
