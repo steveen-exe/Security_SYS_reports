@@ -1,7 +1,5 @@
 ---
-
-##
-🔒 Author Verification
+##Author Verification
 Any reuse or reproduction without credit is  prohibited.  
 For verification or collaboration, contact: steveen-exe.
 
